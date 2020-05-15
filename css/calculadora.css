@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+}
+button{
+	width: 88px;
+	height: 50px;
+}
+.botaoigual{
+	width: 22em;
+	background-color: #45de62;
+	color: white;
+	font-weight: bold;
+
+
+}
+.visor{
+	border: 2px solid gray;
+}
+.botao{
+	color: black;
+	font-weight: bold;
+	background-color:#d9deda;
+
+}
+.borda{
+	
+	border-collapse: collapse;
+}
